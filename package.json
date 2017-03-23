@@ -1,0 +1,7 @@
+{
+  "name": "dk-node-redis-sentinel",
+  "main": "lib/connector.js",
+  "dependencies": {
+    "redis-sentinel": "0.3.3"
+  }
+}
